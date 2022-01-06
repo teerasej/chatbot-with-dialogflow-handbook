@@ -1,5 +1,6 @@
 
 # Workshop 
 
-- [Quiz Bot](workshop/quiz-bot/README.md)
-- [Registration Bot](workshop/registration-bot/README.md)
+- [Q&A Bot](q-and-a-bot/README.md)
+- [Quiz Bot](quiz-bot/README.md)
+- [Registration Bot](registration-bot/README.md)
