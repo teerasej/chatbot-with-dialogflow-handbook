@@ -4,3 +4,4 @@
 1. Designing your chatbot
 2. [Dialogflow Fundamental](dialogflow-fundamental/README.md)
 3. [Workshop](workshop/README.md)
+4. [Connecting Channel](connecting-channel/README.md)
