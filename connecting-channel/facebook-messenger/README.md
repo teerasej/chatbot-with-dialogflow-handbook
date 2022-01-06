@@ -1,8 +1,13 @@
-รู้จักกับ Facebook Messaging Platform
-การสร้าง Fan Page และการตั้งค่าสำหรับเชื่อมต่อกับ Bot
-เรียนรู้วิธีสมัคร และเปิดใช้งาน Facebook App
-การเข้าถึง API Key
-เรียนรู้วิธีเชื่อมต่อระหว่าง DialogFlow กับ Facebook Apps และ Messaging Platform
-การตั้งค่าสำหรับการเชื่อมต่อกับ Dialog Flow
-การเข้าถึง API Key
-ทดสอบการทำงานของ Bot
+
+
+# 
+
+
+# เชื่อมต่อ Dialogflow Agent กับ Facebook Messenger
+
+1. [เรียนรู้วิธีสมัคร และเปิดใช้งาน Facebook App](1-register-developer-account.md)
+2. [การเพิ่ม Messenger Platform เข้าไปใน Facebook App](2-add-messenger-platform.md)
+3. [การสร้าง Page Token](3-create-page-token.md)
+4. [การเพิ่ม Webhook](4-connect-webhook.md)
+
+เสร็จแล้วทดสอบการทำงานของบอทได้เลย
