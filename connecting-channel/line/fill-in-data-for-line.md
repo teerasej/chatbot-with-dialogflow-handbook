@@ -26,4 +26,19 @@ Provider > Channel > Messaging API > Web Hook
 
 เสร็จแล้วกดปุ่ม Verify เพื่อเช็คว่าตัว LINE Messaging API สามารถติดต่อกับ Web hook ของ Dialogflow ได้
 
-<img width="490" alt="2022-01-03_22-17-34" src="https://user-images.githubusercontent.com/85179/147948068-65340984-b62e-4d58-b2d1-a9e6bfc3788b.png">
+และอย่าลืมกดเปิด webhook ด้านล่างด้วน 
+
+<img width="773" alt="2022-01-06_20-30-48" src="https://user-images.githubusercontent.com/85179/148391767-55907de5-ea86-471f-a57c-0c2984457e02.png">
+
+
+## 4. ตั้งค่า LINE Official Account Feature หากต้องการ
+
+ส่วนนี้ไม่ได้จำเป็นมาก แต่เราสามารถเปิดปิดการทำงานของ LINE Official Account จากตรงนี้ได้เลย โดยการกดปุ่ม Edit ทางด้านขวา
+
+1. เปิด/ปิด ให้บอทสามารถเข้าร่วม group line ได้
+2. เปิด/ปิด ข้อความตอบกลับอัตโนมัติ (ปกติจะปิดถ้าใช้ bot)
+3. เปิด/ปิด ข้อความทักทาย 
+
+<img width="763" alt="2022-01-06_20-39-31" src="https://user-images.githubusercontent.com/85179/148391838-30553959-e12d-45c8-8c9b-68d81ec440ce.png">
+
+
